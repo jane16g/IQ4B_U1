@@ -1,0 +1,20 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "Práctica para el control de versiones",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convertir": "sass EstiloPrincipal.scss  EstiloPrincipal.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jane16g/IQ4B_U1.git"
+  },
+  "author": "Janeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jane16g/IQ4B_U1/issues"
+  },
+  "homepage": "https://github.com/jane16g/IQ4B_U1#readme"
+}
